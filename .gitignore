@@ -1,0 +1,10 @@
+/node_modules/
+/release/
+/reports/
+/css/
+/dist/pom/
+npm-debug.log
+/share/
+*.zip*
+/.idea
+.vscode
